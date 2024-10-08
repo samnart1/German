@@ -28,3 +28,48 @@ Personal pronouns are essential for referring to people and things in conversati
 - Pronunciation: "ikh bin myoo-duh"
 
 - **You are nice (informal)** -> **Du bist nett**
+- Pronunciatioin: "doo bist nett"
+
+- **He is a student** -> **Er ist ein Student**
+- Pronunciation: "air ist ayn shtoo-dent"
+
+- **She is happy** -> **Sie ist glücklich**
+- Pronunciation: "zee ist gluek-likh"
+
+- **We are friends** -> **Wir sind Freunde**
+- Pronunciation: "veer zint froyn-duh"
+
+- **They are teachers** -> **Sie sind Lehrer**
+- Pronunciation: "zee zint lay-rer"
+
+---
+
+### Possessive Pronouns
+
+Possessive pronouns express ownership. Here are the German possessive pronouns for masculine, feminine and neuter nouns, along with their pronunciation.
+
+| English         | Masculine   | Feminine  | Neuter | Pronunciation  |
+|-----------------|-------------|-----------|--------|----------------|
+| My              | Mein        | Meine     | Mein   | "mine"         |
+| Your (informal) | Dein        | Deine     | Dein   | "dine"         |
+| His             | Sein        | Seine     | Sein   | "zine"         |
+| Her             | Ihr         | Ihre      | Ihr    | "eer"          |
+| Its             | Sein        | Seine     | Sein   | "zine"         |
+| Our             | Unser       | Unsere    | Unser  | "oon-zer"      |
+| Your (plural)   | Euer        | Eure      | Euer   | "oy-er"        |
+| Thier           | Ihr         | Ihre      | Ihr    | "eer"          |
+
+---
+
+### Examples of Possessive Pronouns in Sentences:
+
+- **My car** -> **Mein Auto**
+  - Pronunciation: "mine ow-toh"
+
+- **Your house (informal)** -> **Dein Haus**
+  - Pronunciation: "dine house"
+
+- **His book** -> "Sein Buch**
+  - Pronunciation: "zine book"
+
+- **Her dog** -> **Ihr Hund**
