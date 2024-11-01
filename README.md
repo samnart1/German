@@ -33,3 +33,6 @@ You can follow along lesson by lesson, or jump to sections you're interested in.
   cd German/alphabets
   ```
 - Open the lesson1.md file and follow along with the first lesson.
+
+
+I forgpt ahain to cpmmit, gpin tp have tp you ypu as scape goat again. i love ypu german repo. need to keep tje streak going.
